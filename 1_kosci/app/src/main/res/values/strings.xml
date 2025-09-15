@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Kosci</string>
+    <string name="banner">Gra w kości. Autor: A. Palinkiewicz</string>
+    <string name="roll">Rzuć koścmi</string>
+    <string name="reset">Resetuj wynik</string>
+    <string name="score">Wynik tego losowania: </string>
+    <string name="all">Wynik gry: </string>
+</resources>
