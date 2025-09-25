@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Pralka</string>
+    <string name="header">Urządzenia domowe</string>
+    <string name="subheader">Autor: Adam Palinkiewicz</string>
+    <string name="washing_machine">Pralka</string>
+    <string name="type_wash_number">Podaj numer prania 1..12</string>
+    <string name="confirm">Zatwierdź</string>
+    <string name="wash_number">Numer prania:</string>
+    <string name="wash_number_not_typed">Numer prania: nie podano</string>
+    <string name="vacuum">Odkurzacz</string>
+    <string name="turn_on">Włącz</string>
+    <string name="turn_off">Wyłącz</string>
+    <string name="vacumm_on">Odkurzacz włączony</string>
+    <string name="vacumm_off">Odkurzacz wyłączony</string>
+    <string name="vacumm_status">Status: naładowany</string>
+</resources>
