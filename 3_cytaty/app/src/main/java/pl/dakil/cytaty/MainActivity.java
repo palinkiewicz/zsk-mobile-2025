@@ -54,7 +54,7 @@ public class MainActivity extends AppCompatActivity {
 
         btn.setOnClickListener(l -> {
             index++;
-            if (index > array.length) index = 0;
+            if (index > array.length - 1) index = 0;
             ct.setText(array[index]);
         });
     }
