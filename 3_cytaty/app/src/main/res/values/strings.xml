@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Cytaty</string>
+    <string name="header">Właściwości czcionki</string>
+    <string name="size">Rozmiar:</string>
+    <string name="button">>></string>
+</resources>
