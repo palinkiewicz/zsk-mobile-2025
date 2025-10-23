@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Vet</string>
+    <string name="header">Wizyta u weterynarza</string>
+    <string name="name_and_surname">Imię i nazwisko właściciela...</string>
+    <string name="type">Gatunek</string>
+    <string name="type_dog">Pies</string>
+    <string name="type_cat">Kot</string>
+    <string name="type_guinea">Świnka morska</string>
+    <string name="age">Ile ma lat?</string>
+    <string name="goal">Cel wizyty</string>
+    <string name="ok">OK</string>
+    <string name="form_sent">Przesłano formularz!</string>
+</resources>

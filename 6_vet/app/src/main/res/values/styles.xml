@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="GreenBackground">
+        <item name="android:background">#90EE90</item>
+    </style>
+    <style name="Title">
+        <item name="android:background">#2E8B57</item>
+        <item name="android:padding">10dp</item>
+        <item name="android:textSize">24sp</item>
+    </style>
+</resources>
