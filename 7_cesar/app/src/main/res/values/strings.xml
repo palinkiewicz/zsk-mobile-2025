@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cesar</string>
+    <string name="label_1">Podaj wartość klucza</string>
+    <string name="label_2">Podaj tekst</string>
+    <string name="label_3">Tekst zaszyfrowany</string>
+    <string name="button_1">Zaszyfruj</string>
+    <string name="button_2">Zapisz szyfr w pliku</string>
+</resources>
