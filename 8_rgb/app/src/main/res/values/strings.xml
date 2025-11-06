@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Kolory</string>
+    <string name="label">Dobierz kolor suwakami i zapisz przyciskiem:</string>
+    <string name="label_r">R</string>
+    <string name="label_g">G</string>
+    <string name="label_b">B</string>
+    <string name="init">255</string>
+    <string name="init_3">255, 255, 255</string>
+    <string name="download">Pobierz</string>
+</resources>
